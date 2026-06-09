@@ -53,7 +53,7 @@ console.log("Linked List before reverse: ");
 console.log(myLinkedList);
 console.log("============================");
 
-console.log("Linked List before reverse: ");
+console.log("Linked List after reverse: ");
 console.log(myLinkedList.reverse());
 console.log(myLinkedList);
 console.log("============================");
